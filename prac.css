@@ -1,0 +1,10 @@
+div{
+  background: blue;
+  color: yellow;
+  margin: 1% 2%  1% 2% ;
+  display: inline;
+  width: 5%;
+  height: 5%;
+  padding:1% 2%  1% 2%;
+  text-align: center;
+}
